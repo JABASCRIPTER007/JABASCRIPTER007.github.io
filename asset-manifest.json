@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.addcabc5.css",
+    "main.js": "/static/js/main.770bd22b.js",
+    "static/media/pogoda.png": "/static/media/pogoda.1fe36a30dd4db958f506.png",
+    "static/media/Photo3.jpg": "/static/media/Photo3.33b98755fe6299eb1e06.jpg",
+    "static/media/Photo4.jpg": "/static/media/Photo4.2b3578caae3f88bd4d75.jpg",
+    "static/media/Photo2.jpg": "/static/media/Photo2.59cd679d72346484ff60.jpg",
+    "static/media/Photo5.jpg": "/static/media/Photo5.8e1a40d1904696c69a8c.jpg",
+    "static/media/Photo6.jpg": "/static/media/Photo6.a7f55c5f67843266a85e.jpg",
+    "static/media/Photo1.jpg": "/static/media/Photo1.8343ac52dbbbac093a26.jpg",
+    "static/media/CollegePhoto.jpg": "/static/media/CollegePhoto.0d872ee900e05249512e.jpg",
+    "index.html": "/index.html",
+    "main.addcabc5.css.map": "/static/css/main.addcabc5.css.map",
+    "main.770bd22b.js.map": "/static/js/main.770bd22b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addcabc5.css",
+    "static/js/main.770bd22b.js"
+  ]
+}
